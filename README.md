@@ -1,6 +1,9 @@
 # Shower Presentation Template
 [![Test status](https://github.com/shower/shower/workflows/Test/badge.svg)](https://github.com/shower/shower/actions/workflows/test.yml)
 
+## Link to the finished presentation
+https://phantom2097.github.io/biometric
+
 <img src="pictures/logo.png" width="250" alt="Shower logo">
 
 > Shower ['ʃəuə] noun. A person or thing that shows.
